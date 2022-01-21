@@ -1,0 +1,8 @@
+{
+    "api": "access_token",
+    "params": [
+        
+    ],
+    "db_name":  "vk",
+    "db_collection": "users"
+}
